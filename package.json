@@ -19,17 +19,19 @@
     "putio-sync": "./bin/putio-sync"
   },
   "dependencies": {
-      "put.io-v2" : ">=0.0.2",
-      "underscore" : ">=1.6.0",
-      "npid" : ">=0.3.2",
-      "colors" : ">=0.6.2",
-      "ensureDir" : ">=1.0.6",
-      "nopt" : ">=2.2.0",
-      "nopt-usage" : ">=0.1.0",
-      "status-bar": ">=2.0.0",
-	  "fswin": ">=2.14.1024",
-      "request" : ">=2.33",
-      "ansi": ">=0.2.1"
+    "put.io-v2": ">=0.0.2",
+    "underscore": ">=1.6.0",
+    "npid": ">=0.3.2",
+    "colors": ">=0.6.2",
+    "ensureDir": ">=1.0.6",
+    "nopt": ">=2.2.0",
+    "nopt-usage": ">=0.1.0",
+    "status-bar": ">=2.0.0",
+    "fswin": ">=2.14.1024",
+    "request": ">=2.33",
+    "ansi": ">=0.2.1",
+    "throttle": "~1.0.3",
+    "brake": "~1.0.1"
   },
   "devDependencies": {
     "tap": "~0.4.8"
